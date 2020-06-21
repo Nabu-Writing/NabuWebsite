@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Hydra Template
+title: Nabu
 url: "https://nabu-writing.github.io/"
-baseurl: NabuWebsite
+baseurl: "NabuWebsite"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
