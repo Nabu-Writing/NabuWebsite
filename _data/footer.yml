@@ -8,13 +8,6 @@
   - name: Kapcsolat
     link: /kapcsolat/
 - links:
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
-- links:
   - name: Facebook
     link: https://facebook.com/cloudcannon/
     new_window: true
