@@ -1,19 +1,13 @@
 - links:
-  - name: Pricing
-    link: /pricing/
+  - name: Áraink
+    link: /araink/
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
-  - name: Contact
-    link: /contact/
+  - name: Rólunk
+    link: /rolunk/
+  - name: Kapcsolat
+    link: /kapcsolat/
 - links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
   - name: Docs
     link: /
     new_window: true

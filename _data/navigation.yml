@@ -1,5 +1,5 @@
-- name: Árak
-  link: /arak/
+- name: Áraik
+  link: /araik/
   new_window: false
   highlight: false
 - name: Blog
