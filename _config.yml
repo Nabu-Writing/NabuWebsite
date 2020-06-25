@@ -65,7 +65,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "contact.html"
+      path: "kapcsolat.html"
     values:
       full_width: true
 
