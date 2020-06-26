@@ -1,12 +1,12 @@
 - links:
   - name: Áraink
-    link: /araink/
+    link: /pricing/
   - name: Blog
     link: /blog/
   - name: Rólunk
-    link: /rolunk/
+    link: /about/
   - name: Kapcsolat
-    link: /kapcsolat/
+    link: /contact/
 - links:
   - name: Facebook
     link: https://facebook.com/cloudcannon/
