@@ -1,5 +1,5 @@
 - name: Áraik
-  link: /araik/
+  link: /pricing/
   new_window: false
   highlight: false
 - name: Blog
@@ -7,10 +7,10 @@
   new_window: false
   highlight: false
 - name: Rólunk
-  link: /rolunk/
+  link: /about/
   new_window: false
   highlight: false
 - name: Kapcsolat
-  link: /kapcsolat/
+  link: /contact/
   new_window: false
   highlight: false
