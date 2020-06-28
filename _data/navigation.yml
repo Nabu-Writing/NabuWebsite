@@ -1,11 +1,11 @@
-- name: Áraik
-  link: /pricing/
-  new_window: false
-  highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
+#- name: Áraik
+#  link: /pricing/
+#  new_window: false
+#  highlight: false
+#- name: Blog
+#  link: /blog/
+#  new_window: false
+#  highlight: false
 - name: Rólunk
   link: /about/
   new_window: false

@@ -1,8 +1,8 @@
 - links:
-  - name: Áraink
-    link: /pricing/
-  - name: Blog
-    link: /blog/
+  #- name: Áraink
+  #  link: /pricing/
+  #- name: Blog
+  #  link: /blog/
   - name: Rólunk
     link: /about/
   - name: Kapcsolat
